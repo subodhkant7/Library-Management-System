@@ -115,4 +115,3 @@ With the above notes in mind, Windows setup is not too tricky:
 ![](meta/screencapture-library-local-1450375427449.png)
 
 --------------------------
-Feel free to contact me via [email](http://goo.gl/68kmd6)
